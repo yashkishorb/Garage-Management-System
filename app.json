@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c1dcd4be-3980-4a53-a546-bd11a40bd27f"
+      }
+    },
+    "android": {
+      "package": "com.dnyanuuu.garagesystem"
+    }
+  }
+}
